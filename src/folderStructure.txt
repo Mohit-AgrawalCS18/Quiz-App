@@ -1,0 +1,23 @@
+***************All Completed*******************
+
+folder structure[
+    (step1{
+        ->setthequizIndex
+        ->setanswers(wrong and right)
+        ->setscore
+        ->setresultpage
+    })Completed
+
+    step-2{
+        ->UI & UX DESIGN LAYOUT
+        ->Responsive Interface
+        ->HTML,TAILWIND CSS
+    }
+    step-3{
+        ->code optimization
+        ->testing(Bugs)
+        ->mantinance
+    }
+]
+
+***************All Completed*******************
